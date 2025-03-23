@@ -6,4 +6,4 @@ USE <br>
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={H4YI3R}&theme=blue-green)
