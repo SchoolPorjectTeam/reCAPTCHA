@@ -1,5 +1,4 @@
 # reCAPTCHA
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4YI3R)](https://github.com/anuraghazra/github-readme-stats)
 
 USE <br>
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -7,3 +6,4 @@ USE <br>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username={H4YI3R}&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4YI3R)](https://github.com/anuraghazra/github-readme-stats)
