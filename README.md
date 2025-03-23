@@ -6,6 +6,3 @@ USE <br>
 
 💻 Terminal<br>
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={H4YI3R}&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4YI3R)](https://github.com/anuraghazra/github-readme-stats)
